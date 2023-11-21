@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ravishankar01661
-- 👀 I’m interested in programming and about learning new technologies
-- 🌱 I’m currently learning about software development
+- 👀 I’m interested in programming and learning new technologies
+- I know "C and C++" programming languages
+- 🌱 I’m currently learning about game development
+
 
 <!---
 ravishankar01661/ravishankar01661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

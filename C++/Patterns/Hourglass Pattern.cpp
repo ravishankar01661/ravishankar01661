@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int size = 5; // Change the size of the square pattern
+
+    for (int i = 0; i < size; i++) {
+        for (int j = 0; j < i; j++) {
+            cout << "  ";
+        }
+        for (int j = 0; j < size - i; j++) {
+            cout << "* ";
+        }
+        cout << endl;
+    }
+    for (int i = 1; i < size; i++) {
+        for (int j = i; j < size - 1; j++) {
+            cout << "  ";
+        }
+        for (int j = 0; j <= i; j++) {
+            cout << "* ";
+        }
+        cout << endl;
+    }
+
+    return 0;
+}
+
